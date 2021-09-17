@@ -1,4 +1,4 @@
-# Analise de dados com python e pandas com especialista Fernanda Santos
+# Analise de dados com python e pandas
 Projeto prático do Bootcamp Cognizant Cloud Data Engineer na DIO
 
 Neste projeto utilizamos as bibliotecas pandas para trabalha com os arquivos `csv` e `xlsx`.
